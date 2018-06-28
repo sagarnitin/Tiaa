@@ -1,0 +1,8 @@
+<param>
+	<huburl>http://localhost:4444/wd/hub</huburl>
+	<browser>FF</browser>
+	<platform>Give the platform name</platform>
+	<testdatapath>\test-input\TestData</testdatapath>
+	<screenshotpath>Give the screen shot path</screenshotpath>
+	<timeout>120</timeout>
+</param>
